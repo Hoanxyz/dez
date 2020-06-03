@@ -1,8 +1,8 @@
 <?php
-namespace Models;
+// namespace Models;
 
-use Models\StudentResourceModel;
-use Models\StudentModel;
+// use Models\StudentResourceModel;
+// use Models\StudentModel;
 
 class StudentRepository
 {
